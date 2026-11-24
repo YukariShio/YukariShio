@@ -19,7 +19,7 @@
 ## 🍥 About Me / 关于我
 
 - **Name**：缘汐（ゆかりしお）
-- **Identity**：网络空间安全专业 · 本科在读
+- **Identity**：南昌大学(NCU)·网络空间安全专业 在读
 - **Interests**：Cyber Security / AI / Programming / Game Development
 - **Currently**：学习、折腾、创造，以及偶尔与 Bug 斗智斗勇。
 - **Philosophy**：技术探索未知，代码创造可能。
@@ -61,7 +61,7 @@
 - 📝 搭建与完善自己的个人静态博客。
 - 🤖 探索本地大模型部署与 AI 应用开发。
 - 🔐 持续学习网络空间安全相关知识。
-- 💡 将一些脑海中的想法慢慢变成现实。
+- 💡 将一些奇妙想法慢慢变成现实。
 
 ---
 
